@@ -1,17 +1,17 @@
-06483791353:  (configrom.cpp)[ 625] printConfigRom: Config ROM
-06483791381:  (configrom.cpp)[ 626] printConfigRom: 	Current Node Id:	0
-06483791401:  (configrom.cpp)[ 627] printConfigRom: 	GUID:			0x000FD40001000000
-06483791405:  (configrom.cpp)[ 628] printConfigRom: 	Vendor Name:		Soundcraft
-06483791412:  (configrom.cpp)[ 629] printConfigRom: 	Model Name:		Soundcraft_Digital
-06483791414:  (configrom.cpp)[ 630] printConfigRom: 	Node Vendor ID:		0x000fd4
-06483791419:  (configrom.cpp)[ 631] printConfigRom: 	Model Id:		0x00000001
-06483791422:  (configrom.cpp)[ 632] printConfigRom: 	Unit Specifier ID:	0x00a02d
-06483791427:  (configrom.cpp)[ 633] printConfigRom: 	Unit version:		0x00010001
-06483791429:  (configrom.cpp)[ 634] printConfigRom: 	ISO resource manager:	1
-06483791433:  (configrom.cpp)[ 635] printConfigRom: 	Cycle master capable:	1
-06483791434:  (configrom.cpp)[ 636] printConfigRom: 	Bus manager capable:	1
-06483791438:  (configrom.cpp)[ 637] printConfigRom: 	Cycle clock accuracy:	100
-06483791441:  (configrom.cpp)[ 638] printConfigRom: 	Max rec:		8 (max asy payload: 512 bytes)
+12258371902:  (configrom.cpp)[ 625] printConfigRom: Config ROM
+12258371968:  (configrom.cpp)[ 626] printConfigRom: 	Current Node Id:	0
+12258371982:  (configrom.cpp)[ 627] printConfigRom: 	GUID:			0x000FD40001000000
+12258371987:  (configrom.cpp)[ 628] printConfigRom: 	Vendor Name:		Soundcraft
+12258371997:  (configrom.cpp)[ 629] printConfigRom: 	Model Name:		Soundcraft_Digital
+12258371999:  (configrom.cpp)[ 630] printConfigRom: 	Node Vendor ID:		0x000fd4
+12258372025:  (configrom.cpp)[ 631] printConfigRom: 	Model Id:		0x00000001
+12258372029:  (configrom.cpp)[ 632] printConfigRom: 	Unit Specifier ID:	0x00a02d
+12258372036:  (configrom.cpp)[ 633] printConfigRom: 	Unit version:		0x00010001
+12258372038:  (configrom.cpp)[ 634] printConfigRom: 	ISO resource manager:	1
+12258372051:  (configrom.cpp)[ 635] printConfigRom: 	Cycle master capable:	1
+12258372053:  (configrom.cpp)[ 636] printConfigRom: 	Bus manager capable:	1
+12258372058:  (configrom.cpp)[ 637] printConfigRom: 	Cycle clock accuracy:	100
+12258372061:  (configrom.cpp)[ 638] printConfigRom: 	Max rec:		8 (max asy payload: 512 bytes)
 no message buffer overruns
 -----------------------------------------------
 BridgeCo BeBoB platform firmware downloader
