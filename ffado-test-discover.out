@@ -1,0 +1,62 @@
+06519304280: Debug (devicemanager.cpp)[ 354] discover: Starting discovery...
+06519409194: Debug (Configuration.cpp)[ 163] showSetting:   Group: (null)
+06519409228: Debug (Configuration.cpp)[ 185] showSetting:     vendorid = 4052 (0x00000FD4)
+06519409231: Debug (Configuration.cpp)[ 185] showSetting:     modelid = 1 (0x00000001)
+06519409250: Debug (Configuration.cpp)[ 209] showSetting:     vendorname = Soundcraft
+06519409253: Debug (Configuration.cpp)[ 209] showSetting:     modelname = Soundcraft_Digital
+06519409258: Debug (Configuration.cpp)[ 209] showSetting:     driver = BEBOB
+06519409260: Debug (Configuration.cpp)[ 185] showSetting:     cmd_interval_time = 10000 (0x00002710)
+06519409271: Debug (Configuration.cpp)[ 185] showSetting:     xmit_max_cycles_early_transmit = 4 (0x00000004)
+06519409420: Debug (devicemanager.cpp)[ 616] discover: driver found for device 0
+06519445044: Debug (bebob_avdevice.cpp)[ 846] loadFromCache: filename /home/raph/.ffado/cache/000fd40001000000/0000006011202004.xml
+06519445074: Debug (bebob_avdevice.cpp)[ 850] loadFromCache: "/home/raph/.ffado/cache/000fd40001000000/0000006011202004.xml" does not exist
+06519445121: Debug (Configuration.cpp)[ 163] showSetting:   Group: (null)
+06519445127: Debug (Configuration.cpp)[ 185] showSetting:     vendorid = 4052 (0x00000FD4)
+06519445132: Debug (Configuration.cpp)[ 185] showSetting:     modelid = 1 (0x00000001)
+06519445135: Debug (Configuration.cpp)[ 209] showSetting:     vendorname = Soundcraft
+06519445139: Debug (Configuration.cpp)[ 209] showSetting:     modelname = Soundcraft_Digital
+06519445142: Debug (Configuration.cpp)[ 209] showSetting:     driver = BEBOB
+06519445146: Debug (Configuration.cpp)[ 185] showSetting:     cmd_interval_time = 10000 (0x00002710)
+06519445148: Debug (Configuration.cpp)[ 185] showSetting:     xmit_max_cycles_early_transmit = 4 (0x00000004)
+06519455071: Debug (bebob_avdevice_subunit.cpp)[  83] discover: Discovering BeBoB::AudioSubunit...
+06519455082: Debug (avc_audiosubunit.cpp)[  56] discover: Discovering BeBoB::AudioSubunit...
+06519455097: Debug (avc_subunit.cpp)[ 108] discoverPlugs: Discovering plugs...
+06519602104: Debug (bebob_avdevice_subunit.cpp)[ 132] discoverFunctionBlocks: Discovering function blocks...
+06519631061: Debug (bebob_avdevice_subunit.cpp)[ 449] discover: Discovering BeBoB::MusicSubunit...
+06519631076: Debug (avc_musicsubunit.cpp)[  65] discover: Discovering BeBoB::MusicSubunit...
+06519631091: Debug (avc_subunit.cpp)[ 108] discoverPlugs: Discovering plugs...
+06521205104: [31mWarning (avc_plug.cpp)[ 587] discoverSupportedStreamFormats: unknown stream format (0x40) for channel (0)
+[0m06522787122: Debug (avc_plug.cpp)[ 427] discoverStreamFormat: Format hierarchy root is not Audio&Music -> skip
+06522793078: Debug (avc_unit.cpp)[ 366] discoverPlugs: Discovering plugs...
+06522800038: Debug (avc_unit.cpp)[ 383] discoverPlugs: number of iso input plugs = 2
+06522800045: Debug (avc_unit.cpp)[ 385] discoverPlugs: number of iso output plugs = 2
+06522800052: Debug (avc_unit.cpp)[ 387] discoverPlugs: number of external input plugs = 18
+06522800053: Debug (avc_unit.cpp)[ 389] discoverPlugs: number of external output plugs = 16
+06522800057: Debug (avc_unit.cpp)[ 426] discoverPlugsPCR: Discovering PCR plugs, direction 0...
+06523204129: Debug (avc_unit.cpp)[ 448] discoverPlugsPCR: plug 'PCR Compound Input' found
+06523249087: Debug (avc_unit.cpp)[ 448] discoverPlugsPCR: plug 'PCR Sync Input' found
+06523249100: Debug (avc_unit.cpp)[ 426] discoverPlugsPCR: Discovering PCR plugs, direction 1...
+06523662072: Debug (avc_unit.cpp)[ 448] discoverPlugsPCR: plug 'PCR Compound Output' found
+06523694051: Debug (avc_plug.cpp)[ 427] discoverStreamFormat: Format hierarchy root is not Audio&Music -> skip
+06523700033: Debug (avc_unit.cpp)[ 448] discoverPlugsPCR: plug 'PCR Sync Output' found
+06523700044: Debug (avc_unit.cpp)[ 459] discoverPlugsExternal: Discovering External plugs, direction 0...
+06523706055: [31mError (bebob_avplug.cpp)[ 237] discoverPlugType: Plug does not implement extended plug info plug type info command
+[0m06523706068: [31mError (bebob_avplug.cpp)[ 120] discover: discover: Could not discover plug type (0,31,255,0,0)
+[0m06523706083: [31mError (avc_unit.cpp)[ 474] discoverPlugsExternal: plug discovering failed
+[0m06523706085: [31mError (avc_unit.cpp)[ 408] discoverPlugs: external input plug discovering failed
+[0m06523706090: [31mError (avc_unit.cpp)[ 182] discover: Detecting plugs failed
+[0m06523706092: [31mError (bebob_avdevice.cpp)[ 232] discover: Could not discover unit
+[0m06523706099: [31mError (devicemanager.cpp)[ 628] discover: could not discover device
+[0m06523706202: Debug (devicemanager.cpp)[ 661] discover: Discovery finished...
+06523706211: Debug (devicemanager.cpp)[1258] showDeviceInfo: ===== Device Manager =====
+06523706214: Debug (Element.cpp)[ 121] show: Element DeviceManager
+06523706218: Debug (devicemanager.cpp)[1266] showDeviceInfo: --- IEEE1394 Service  0 ---
+no message buffer overruns
+-----------------------------------------------
+FFADO test and diagnostic utility
+Part of the FFADO project -- www.ffado.org
+Version: 2.2.1-Unversioned directory
+(C) 2008, Daniel Wagner, Pieter Palmers
+This program comes with ABSOLUTELY NO WARRANTY.
+-----------------------------------------------
+

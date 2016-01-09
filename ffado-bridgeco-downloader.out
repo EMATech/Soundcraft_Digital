@@ -1,0 +1,40 @@
+06483791353:  (configrom.cpp)[ 625] printConfigRom: Config ROM
+06483791381:  (configrom.cpp)[ 626] printConfigRom: 	Current Node Id:	0
+06483791401:  (configrom.cpp)[ 627] printConfigRom: 	GUID:			0x000FD40001000000
+06483791405:  (configrom.cpp)[ 628] printConfigRom: 	Vendor Name:		Soundcraft
+06483791412:  (configrom.cpp)[ 629] printConfigRom: 	Model Name:		Soundcraft_Digital
+06483791414:  (configrom.cpp)[ 630] printConfigRom: 	Node Vendor ID:		0x000fd4
+06483791419:  (configrom.cpp)[ 631] printConfigRom: 	Model Id:		0x00000001
+06483791422:  (configrom.cpp)[ 632] printConfigRom: 	Unit Specifier ID:	0x00a02d
+06483791427:  (configrom.cpp)[ 633] printConfigRom: 	Unit version:		0x00010001
+06483791429:  (configrom.cpp)[ 634] printConfigRom: 	ISO resource manager:	1
+06483791433:  (configrom.cpp)[ 635] printConfigRom: 	Cycle master capable:	1
+06483791434:  (configrom.cpp)[ 636] printConfigRom: 	Bus manager capable:	1
+06483791438:  (configrom.cpp)[ 637] printConfigRom: 	Cycle clock accuracy:	100
+06483791441:  (configrom.cpp)[ 638] printConfigRom: 	Max rec:		8 (max asy payload: 512 bytes)
+no message buffer overruns
+-----------------------------------------------
+BridgeCo BeBoB platform firmware downloader
+Part of the FFADO project -- www.ffado.org
+Version: 2.2.1-Unversioned directory
+(C) 2008, Daniel Wagner, Pieter Palmers
+This program comes with ABSOLUTELY NO WARRANTY.
+-----------------------------------------------
+
+YOU HAVE SPECIFIED THE CORRECT MAGIC NUMBER.
+HENCE YOU ACCEPT THE RISKS INVOLVED.
+Info Registers
+	Manufactors Id:		bridgeCo
+	Protocol Version:	0x00000003
+	Bootloader Version:	0x00000000
+	GUID:			0x000fd40001000000
+	Hardware Model ID:	0x00000001
+	Hardware Revision:	0x00000000
+	Software Date:		12.09.2013, 05:29:40  
+	Software Id:		0x00000001
+	Software Version:	0x00002103
+	Base Address:		0x400c0080
+	Max. Image Len:		0x00158740
+	Bootloader Date:	16.05.2013, 20:39:15  
+	Debugger Id:		0x00000000
+	Debugger Version:	0x00000000
