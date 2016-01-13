@@ -1,0 +1,15 @@
+sys:1: PyGIWarning: Hinawa was imported without specifying a version first. Use gi.require_version('Hinawa', '1.0') before import to ensure that the right version gets loaded.
+Traceback (most recent call last):
+  File "hinawa-bebob-parser", line 18, in <module>
+    unit = BebobNormal(path)
+  File "/home/rdoursenaud/Documents/src/hinawa-utils/bridgeco/bebobnormal.py", line 27, in __init__
+    self.unit_plugs = self._parse_unit_plugs(fcp)
+  File "/home/rdoursenaud/Documents/src/hinawa-utils/bridgeco/bebobnormal.py", line 54, in _parse_unit_plugs
+    plug = self._parse_unit_plug(fcp, dir, type, i)
+  File "/home/rdoursenaud/Documents/src/hinawa-utils/bridgeco/bebobnormal.py", line 61, in _parse_unit_plug
+    plug['type'] = BcoPlugInfo.get_plug_type(fcp, addr)
+  File "/home/rdoursenaud/Documents/src/hinawa-utils/bridgeco/extensions.py", line 157, in get_plug_type
+    params = AvcGeneral.command_status(unit, args)
+  File "/home/rdoursenaud/Documents/src/hinawa-utils/ta1394/general.py", line 35, in command_status
+    raise OSError('Not implemented')
+OSError: Not implemented
