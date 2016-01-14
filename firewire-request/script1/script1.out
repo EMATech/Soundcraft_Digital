@@ -1,0 +1,81 @@
+response: 000: 08 ff 02 c0 00 00 01 00 ff 01 ff ff             ............
+response: 000: 0c ff 02 c0 00 00 01 01 ff 01 13 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 49 6e 70 75 74 20 31 2f 32       udio Input 1/2
+response: 000: 0c ff 02 c0 00 00 01 02 ff 01 13 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 49 6e 70 75 74 20 33 2f 34       udio Input 3/4
+response: 000: 0c ff 02 c0 00 00 01 03 ff 01 13 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 49 6e 70 75 74 20 35 2f 36       udio Input 5/6
+response: 000: 0c ff 02 c0 00 00 01 04 ff 01 13 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 49 6e 70 75 74 20 37 2f 38       udio Input 7/8
+response: 000: 0c ff 02 c0 00 00 01 05 ff 01 14 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 49 6e 70 75 74 20 39 2f 31 30    udio Input 9/10
+response: 000: 0c ff 02 c0 00 00 01 06 ff 01 15 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 49 6e 70 75 74 20 31 31 2f 31 32 udio Input 11/12
+response: 000: 0c ff 02 c0 00 00 01 07 ff 01 15 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 49 6e 70 75 74 20 31 33 2f 31 34 udio Input 13/14
+response: 000: 0c ff 02 c0 00 00 01 08 ff 01 15 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 49 6e 70 75 74 20 31 35 2f 31 36 udio Input 15/16
+response: 000: 0c ff 02 c0 00 00 01 09 ff 01 15 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 49 6e 70 75 74 20 31 37 2f 31 38 udio Input 17/18
+response: 000: 0c ff 02 c0 00 00 01 0a ff 01 15 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 49 6e 70 75 74 20 31 39 2f 32 30 udio Input 19/20
+response: 000: 0c ff 02 c0 00 00 01 0b ff 01 15 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 49 6e 70 75 74 20 32 31 2f 32 32 udio Input 21/22
+response: 000: 0c ff 02 c0 00 00 01 0c ff 01 15 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 49 6e 70 75 74 20 32 33 2f 32 34 udio Input 23/24
+response: 000: 0c ff 02 c0 00 00 01 0d ff 01 15 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 49 6e 70 75 74 20 32 35 2f 32 36 udio Input 25/26
+response: 000: 0c ff 02 c0 00 00 01 0e ff 01 15 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 49 6e 70 75 74 20 32 37 2f 32 38 udio Input 27/28
+response: 000: 0c ff 02 c0 00 00 01 0f ff 01 15 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 49 6e 70 75 74 20 32 39 2f 33 30 udio Input 29/30
+response: 000: 0c ff 02 c0 00 00 01 10 ff 01 15 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 49 6e 70 75 74 20 33 31 2f 33 32 udio Input 31/32
+response: 000: 0c ff 02 c0 00 00 01 11 ff 01 10 57 6f 72 64 20 ...........Word 
+response: 010: 43 6c 6f 63 6b 20 49 6e 70 75 74                Clock Input
+response: 000: 0c ff 02 c0 00 00 01 12 ff 01 0d 4f 70 74 69 63 ...........Optic
+response: 010: 61 6c 20 49 6e 70 75 74                         al Input
+response: 000: 08 ff 02 c0 10 00 01 00 ff 01 ff ff             ............
+response: 000: 0c ff 02 c0 10 00 01 01 ff 01 14 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 4f 75 74 70 75 74 20 31 2f 32    udio Output 1/2
+response: 000: 0c ff 02 c0 10 00 01 02 ff 01 14 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 4f 75 74 70 75 74 20 33 2f 34    udio Output 3/4
+response: 000: 0c ff 02 c0 10 00 01 03 ff 01 14 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 4f 75 74 70 75 74 20 35 2f 36    udio Output 5/6
+response: 000: 0c ff 02 c0 10 00 01 04 ff 01 14 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 4f 75 74 70 75 74 20 37 2f 38    udio Output 7/8
+response: 000: 0c ff 02 c0 10 00 01 05 ff 01 15 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 4f 75 74 70 75 74 20 39 2f 31 30 udio Output 9/10
+response: 000: 0c ff 02 c0 10 00 01 06 ff 01 16 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 4f 75 74 70 75 74 20 31 31 2f 31 udio Output 11/1
+response: 020: 32                                              2
+response: 000: 0c ff 02 c0 10 00 01 07 ff 01 16 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 4f 75 74 70 75 74 20 31 33 2f 31 udio Output 13/1
+response: 020: 34                                              4
+response: 000: 0c ff 02 c0 10 00 01 08 ff 01 16 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 4f 75 74 70 75 74 20 31 35 2f 31 udio Output 15/1
+response: 020: 36                                              6
+response: 000: 0c ff 02 c0 10 00 01 09 ff 01 16 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 4f 75 74 70 75 74 20 31 37 2f 31 udio Output 17/1
+response: 020: 38                                              8
+response: 000: 0c ff 02 c0 10 00 01 0a ff 01 16 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 4f 75 74 70 75 74 20 31 39 2f 32 udio Output 19/2
+response: 020: 30                                              0
+response: 000: 0c ff 02 c0 10 00 01 0b ff 01 16 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 4f 75 74 70 75 74 20 32 31 2f 32 udio Output 21/2
+response: 020: 32                                              2
+response: 000: 0c ff 02 c0 10 00 01 0c ff 01 16 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 4f 75 74 70 75 74 20 32 33 2f 32 udio Output 23/2
+response: 020: 34                                              4
+response: 000: 0c ff 02 c0 10 00 01 0d ff 01 16 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 4f 75 74 70 75 74 20 32 35 2f 32 udio Output 25/2
+response: 020: 36                                              6
+response: 000: 0c ff 02 c0 10 00 01 0e ff 01 16 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 4f 75 74 70 75 74 20 32 37 2f 32 udio Output 27/2
+response: 020: 38                                              8
+response: 000: 0c ff 02 c0 10 00 01 0f ff 01 16 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 4f 75 74 70 75 74 20 32 39 2f 33 udio Output 29/3
+response: 020: 30                                              0
+response: 000: 0c ff 02 c0 10 00 01 10 ff 01 16 45 78 74 20 41 ...........Ext A
+response: 010: 75 64 69 6f 20 4f 75 74 70 75 74 20 33 31 2f 33 udio Output 31/3
+response: 020: 32                                              2
